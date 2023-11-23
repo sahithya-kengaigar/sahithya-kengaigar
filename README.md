@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sahithya-kengaigar
+- 🎓 Grad Student At the University of Illinois
 - 👀 I’m interested in software development
 - 🌱 I’m Full Stack Developer
 - 📫 How to reach me sahithya.kengaiagr@gmail.com
