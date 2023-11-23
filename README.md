@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahithya-kengaigar
 - 👀 I’m interested in software development
-- 🌱 I’m MERN Stack Developer
+- 🌱 I’m Full Stack Developer
 - 📫 How to reach me sahithya.kengaiagr@gmail.com
 
 <!---
