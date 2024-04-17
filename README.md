@@ -3,7 +3,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m Full Stack Developer
 - 📫 How to reach me sahithya.kengaiagr@gmail.com
-- My protfolio https://sahithya-kengaigar.github.io/Sahithya_kengaigar_portfolio/ 
+- My protfolio https://sahithya-kengaigar.github.io/Sahithya_kengaigar_portfolio/
 <!---
 sahithya-kengaigar/sahithya-kengaigar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
